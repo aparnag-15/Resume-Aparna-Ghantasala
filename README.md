@@ -48,11 +48,11 @@ I enjoy identifying the unapparent problem to design seamless low-friction exper
 * Designed an onboarding solution for Smart collars for Dogs.
 
 ## Skills
-### Research
+#### Research
 * Research planning, Surveys, Recruiting participants, User Interviews, Heuristic analysis, Qualitative & quantitative analysis, A/B Testing, Security of IoT products with Voice, AI multi-model solutions for an innovative copywriting enterprise solution.
-### Design
+#### Design
 * Design sprint, User research and testing, Design thinking, Card sorting, Journey mapping, Storytelling, Information architecture, Wireframes.
-### Tools
+#### Tools
 * Adobe XD, Figma, Sketch, Marvel, Invision, Adobe creative suite, Survey monkey, Google analytics, Trello, Team Gantt, Miro, Asana, Microsoft Office.
 
 ## EDUCATION
