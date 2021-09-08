@@ -34,17 +34,14 @@ I enjoy identifying the unapparent problem to design seamless low-friction exper
 
 
 #### Architectural Designer/Project Manager | Multiple firms | Dec 2012- Feb 2020
-* •	Conducted user research to formulate requirements and develop concepts designs through sketching, digital mockups for 2D and 3D solutions. Incorporated camera interface experience and designed a virtual walkthrough user experience.
-•	Worked in multi-disciplinary teams, coordinated construction, planned project specifications, managed budget and timelines with various stakeholders during the build. Established design and project management standards which increased project efficiency by 30%.
+*	Conducted user research to formulate requirements and develop concepts designs through sketching, digital mockups for 2D and 3D solutions. Incorporated camera interface experience and designed a virtual walkthrough user experience.
+*	Worked in multi-disciplinary teams, coordinated construction, planned project specifications, managed budget and timelines with various stakeholders during the build. Established design and project management standards which increased project efficiency by 30%.
 
 ## Skills
-
 #### Research
 * Research planning, Surveys, Recruiting participants, User Interviews, Heuristic analysis, Qualitative & quantitative analysis, A/B Testing, Security of IoT products with Voice, AI multi-model solutions for an innovative copywriting enterprise solution.
-
 #### Design
 * Design sprint, User research and testing, Design thinking, Card sorting, Journey mapping, Storytelling, Information architecture, Wireframes.
-
 #### Tools
 * Adobe XD, Figma, Sketch, Marvel, Invision, Adobe creative suite, Survey monkey, Google analytics, Trello, Team Gantt, Miro, Asana, Microsoft Office.
 
