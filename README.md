@@ -37,14 +37,6 @@ I enjoy identifying the unapparent problem to design seamless low-friction exper
 *	Conducted user research to formulate requirements and develop concepts designs through sketching, digital mockups for 2D and 3D solutions. Incorporated camera interface experience and designed a virtual walkthrough user experience.
 *	Worked in multi-disciplinary teams, coordinated construction, planned project specifications, managed budget and timelines with various stakeholders during the build. Established design and project management standards which increased project efficiency by 30%.
 
-## Skills
-#### Research
-* Research planning, Surveys, Recruiting participants, User Interviews, Heuristic analysis, Qualitative & quantitative analysis, A/B Testing, Security of IoT products with Voice, AI multi-model solutions for an innovative copywriting enterprise solution.
-#### Design
-* Design sprint, User research and testing, Design thinking, Card sorting, Journey mapping, Storytelling, Information architecture, Wireframes.
-#### Tools
-* Adobe XD, Figma, Sketch, Marvel, Invision, Adobe creative suite, Survey monkey, Google analytics, Trello, Team Gantt, Miro, Asana, Microsoft Office.
-
 ## Achievements 
 * Microsoft U.S. Azure IoT Hack for Sustainability
 Won 3rd place among 335 participants in a 30-day hackathon. Proposed a water sustainability solution using Azure IoT technologies.
@@ -55,6 +47,13 @@ Designed a solution for small business owners to collaborate with one another to
 * UX Result 2020
 Designed an onboarding solution for Smart collars for Dogs.
 
+## Skills
+### Research
+* Research planning, Surveys, Recruiting participants, User Interviews, Heuristic analysis, Qualitative & quantitative analysis, A/B Testing, Security of IoT products with Voice, AI multi-model solutions for an innovative copywriting enterprise solution.
+### Design
+* Design sprint, User research and testing, Design thinking, Card sorting, Journey mapping, Storytelling, Information architecture, Wireframes.
+### Tools
+* Adobe XD, Figma, Sketch, Marvel, Invision, Adobe creative suite, Survey monkey, Google analytics, Trello, Team Gantt, Miro, Asana, Microsoft Office.
 
 ## EDUCATION
 * Springboard UX/UI Career Track | UX/ UI Fellow | March 2020 - Present
