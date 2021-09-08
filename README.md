@@ -39,13 +39,13 @@ I enjoy identifying the unapparent problem to design seamless low-friction exper
 
 ## Achievements 
 #### Microsoft U.S. Azure IoT Hack for Sustainability
-Won 3rd place among 335 participants in a 30-day hackathon. Proposed a water sustainability solution using Azure IoT technologies.
+* Won 3rd place among 335 participants in a 30-day hackathon. Proposed a water sustainability solution using Azure IoT technologies.
 
 #### Top 5 at Austin's Design Week 2020
-Designed a solution for small business owners to collaborate with one another to sustain the challenges of Covid-19.
+* Designed a solution for small business owners to collaborate with one another to sustain the challenges of Covid-19.
 
 #### UX Result 2020
-Designed an onboarding solution for Smart collars for Dogs.
+* Designed an onboarding solution for Smart collars for Dogs.
 
 ## Skills
 ### Research
