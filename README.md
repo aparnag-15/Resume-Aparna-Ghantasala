@@ -38,13 +38,13 @@ I enjoy identifying the unapparent problem to design seamless low-friction exper
 *	Worked in multi-disciplinary teams, coordinated construction, planned project specifications, managed budget and timelines with various stakeholders during the build. Established design and project management standards which increased project efficiency by 30%.
 
 ## Achievements 
-* Microsoft U.S. Azure IoT Hack for Sustainability
+#### Microsoft U.S. Azure IoT Hack for Sustainability
 Won 3rd place among 335 participants in a 30-day hackathon. Proposed a water sustainability solution using Azure IoT technologies.
 
-* Top 5 at Austin's Design Week 2020
+#### Top 5 at Austin's Design Week 2020
 Designed a solution for small business owners to collaborate with one another to sustain the challenges of Covid-19.
 
-* UX Result 2020
+#### UX Result 2020
 Designed an onboarding solution for Smart collars for Dogs.
 
 ## Skills
