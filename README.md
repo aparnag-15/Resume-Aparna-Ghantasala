@@ -12,7 +12,7 @@ I enjoy identifying the unapparent problem to design seamless low-friction exper
 #### Sr. Experience Designer | Amazon via Projekt202 | Seattle, WA | June 2021- Present
 * Design customer experiences for multiple consoles on the AWS Backup team for a fully managed data protection service that makes it easy to centralize and automate backup across AWS services. 
 * Drive research and design processes while working closely multiple stakeholders from management and marketing. Analyze customer pain points and define UX design goals and strategies.
-* Design concept solutions, test with customers, incorporate feedback, write UI content and hand-off hi-fi designs to engineering for implementation.
+* Design concept solutions, test with customers and incorporate feedback, write UX copy and hand-off hi-fi designs to engineering for implementation.
 *	Partnered with product managers, front-end and back-end engineers to design solutions and handed-off 5 backup features in 2 months which will be launched in October 2021.
 
 #### Lead Product Designer | Puget Sound PMI, Seattle, WA | August 2020- Present
