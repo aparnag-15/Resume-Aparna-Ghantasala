@@ -7,62 +7,62 @@
 ## Summary
 I enjoy identifying the unapparent problem to design seamless low-friction experiences for cutting-edge businesses that enable customers to accomplish more. I can synthesize large numbers of competing requests with ease and make high-velocity design decisions in fast paced agile environments.
 
-## Skills
-
-#### Research and Design
-* User research, Competitive Research, Information Architecture, Wireframing, Prototyping, Responsive web design (for desktop, mobile), Usability Testing, Design thinking,  Information Architecture, User Journey, Wireframes,  Critical Problem Solving, Visual Design
-
-#### Softwares
-* Adobe XD, Figma, Google analytics, Marvel POP, InVision Studio, Team Gantt, Fresco, Illustrator, InDesign, Microsoft Office, Basic HTML and CSS
-
-#### Soft Skills
-* Project Management, Critical Problem Solver, Good Team player, Energetic and Optimistic, Organized, Always ready to learn, Team Leader, Good communicator, Mentor, Detail Oriented and Hardworking 
-
 ## Professional Experience
 
-#### UX Designer (Volunteer) | Puget Sound PMI, Seattle, WA | Sept 2020 - Present
-* Design unique solutions for PMI’s live website and social media’s visual content while working closely with the development team and portfolio groups
-* Collaborate with the multiple teams, logically communicate, and present my design solutions to create seamless end to end experiences and publish the website successfully every week 
+#### Sr. Experience Designer | Amazon via Projekt202 | Seattle, WA | June 2021- Present
+* Design customer experiences for multiple consoles on the AWS Backup team for a fully managed data protection service that makes it easy to centralize and automate backup across AWS services. 
+* Drive research and design processes while working closely multiple stakeholders from management and marketing. Analyze customer pain points and define UX design goals and strategies.
+* Design concept solutions, test with customers, incorporate feedback, write UI content and hand-off hi-fi designs to engineering for implementation.
+*	Partnered with product managers, front-end and back-end engineers to design solutions and handed-off 5 backup features in 2 months which will be launched in October 2021.
 
-#### UX Design Intern | Copysmith SFO, CA | Oct 2020 - Nov 2020
-* Copysmith, a startup, hired me to design a user onboarding solution that did not require any physical assistance and a solution to save the generated Google Ad copy 
-* Proposed compelling design solutions and an interactive prototype for the onboarding process to guide users as they explored the tool hands-on and requested personal information only when necessary. For the save feature, I proposed a solution that could export the Saved Ads as .csv file and published Ads efficiently
+#### Lead Product Designer | Puget Sound PMI, Seattle, WA | August 2020- Present
+* Design end-to-end website solutions to facilitate a project manager's career growth. Address stakeholder needs and define goals to design user flows and UI solutions to improve website navigation and keep customers engaged with community activities.
+*	Collaborate with different project teams simultaneously and present designs at various stages of the project cycle. Suggest ways to improve customer flows and convince the team with well-informed design rationale. Iterate designs by synthesizing customer feedback, stakeholder suggestions, and engineering limitations.
+*	Partnered with 4 engineers to ship 6+ product features for the Facebook, LinkedIn, Twitter and the website, increasing customer inflow by 100+ people per month.
+*	Maximized content views of over 100+ for each technical content and increased 1,000+ followers in 3 months.
 
-#### Architect and Project Manager | Key Concepts Construction, Seattle, WA | Dec 2017 - Feb 2020
-* Designed end to end luxurious custom and spec single family homes to create extraordinary living experiences while adhering to business goals and project limitations 
-* Created compelling designs, interactive prototypes, client presentations, and refined final designs all the way through the construction process
-* Managed construction projects by collaborating and communicating design ideas to diverse teams for a timely delivery of projects from concept to reality
 
-#### Architectural Designer | Aria Group Architects, Chicago, IL | Oct 2016 - July 2017
-* Designed restaurant projects focusing on an extraordinary dining experience at TopGolf, Dave and Busters, Nando’s, California Pizza Kitchen and prototype TopGolf V2.3 
+#### UX Designer (Freelance) | Redmond, WA | March 2021- June 2021
+*	Analyzed existing research data to design the information architecture and UI prototypes for an enterprise product. Streamlined the data entry process to help manage existing applicant information in a training pipeline for a government organization. 
+*	Designed user flows, journey maps and prototypes and improved user experience by organizing unstructured data into visually appealing designs by using a wide range of tools and techniques. 
+*	Developed design systems and created UX/UI solutions for web and mobile interfaces. Shipped 3 product features while collaborating with multidisciplinary teams including leadership and engineers. 
 
-#### Research Fellow | Community Design Lab, Ames, IA | August 2015 - June 2016
-* Researched community activities to develop a customer centered food system to distribute food and reduce waste
 
-#### Junior Architect | Aniruddha Vaidya Associates And Srikant Lele Architects Pune, India | August 2012- July 2014
-* Designed multidisciplinary projects and assisted in product development
+#### UX Design Intern | Copysmith, SFO, CA | Oct 2020- Nov 2020
+* Conducted qualitative and quantitative research on current user experiences to design a user onboarding feature to help customers generate, manage, and save AI-powered Google ads.
+*	Designed user onboarding to help uses create and manage Google ads. Tested hi-fi designs and shipped 2 product features in a fast-paced environment increasing 200+ subscribers per month.
 
-## Featured UX Projects
 
-#### User Experience Designer | SAFOME | 3 month end to end project 
-* A Secure Smart Home Mobile Application that protects user privacy and secures their data, while enjoying the perks of smart speakers and other smart home devices
-* Designed cloud based solutions to notify users as smart speakers record conversations and let the users see and be in control of their data 
+#### Architectural Designer/Project Manager | Multiple firms | Dec 2012- Feb 2020
+* •	Conducted user research to formulate requirements and develop concepts designs through sketching, digital mockups for 2D and 3D solutions. Incorporated camera interface experience and designed a virtual walkthrough user experience.
+•	Worked in multi-disciplinary teams, coordinated construction, planned project specifications, managed budget and timelines with various stakeholders during the build. Established design and project management standards which increased project efficiency by 30%.
 
-#### User Experience Designer | CityPups | Modified GV Sprint 
-* Website design that helps customers look for a dog and adopt one efficiently
-* This product supports easy profile setup and helps users find a perfect dog by matching their requirement profile to the dog’s personality profile
+## Skills
 
-#### UX Designer | GYAN | Time bound project with business constraints
-* A desktop application to enhance online learning for students who are currently enrolled at Universities and have shifted to remote learning due to Covid-19 
-* This product motivated students to learn better, interact with professors and collaborate with peers effectively
+#### Research
+* Research planning, Surveys, Recruiting participants, User Interviews, Heuristic analysis, Qualitative & quantitative analysis, A/B Testing, Security of IoT products with Voice, AI multi-model solutions for an innovative copywriting enterprise solution.
+
+#### Design
+* Design sprint, User research and testing, Design thinking, Card sorting, Journey mapping, Storytelling, Information architecture, Wireframes.
+
+#### Tools
+* Adobe XD, Figma, Sketch, Marvel, Invision, Adobe creative suite, Survey monkey, Google analytics, Trello, Team Gantt, Miro, Asana, Microsoft Office.
+
+## Achievements 
+* Microsoft U.S. Azure IoT Hack for Sustainability
+Won 3rd place among 335 participants in a 30-day hackathon. Proposed a water sustainability solution using Azure IoT technologies.
+
+* Top 5 at Austin's Design Week 2020
+Designed a solution for small business owners to collaborate with one another to sustain the challenges of Covid-19.
+
+* UX Result 2020
+Designed an onboarding solution for Smart collars for Dogs.
+
 
 ## EDUCATION
 * Springboard UX/UI Career Track | UX/ UI Fellow | March 2020 - Present
 * Iowa State University | Masters In Urban Design (MUD) | May 2015 - Mar 2016
 * University Of Pune | Bachelors In Architecture (B.Arch) | May 2008 - Mar 2013
 
-## Achievements 
-* In Top 5 at Austin's Design Week 2020 to solve - How Might We leverage design in a virtual setting
-* Designed a mobile application solution for smart dog collars and redesigned Zeitcaster website, competing in 4 challenges at UX Design Hackathon 2020 with 140 other teams
-* Wrote a Research Paper- Project Assessment Evaluator to evaluate the success of Architectural projects at multiple stages and improve team performance 
+
 -------------------------------------------------------------------------------------------------------------------
